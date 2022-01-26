@@ -132,14 +132,3 @@ def train_MLP(data_loader, in_dimension, hidden_dims, out_dimension, epochs, lr,
 
     return best_model, val_accuracies, train_accuracies, test_acc, train_losses
 
-
-
-
-
-
-
-
-
-
-
-
